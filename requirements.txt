@@ -1,0 +1,5 @@
+ipykernel
+opencv-python
+matplotlib
+numpy
+requests
